@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mateeen Mehmood!  
+## Hey 👋, I'm Mateen Mehmood!  
   
 
 <a href="https://github.com/https://github.com/mateendev3" target="_blank">
@@ -7,7 +7,7 @@
 <a href="https://twitter.com/https://twitter.com/mateendev3" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mateen-mehmood/" target="_blank">
+<a href="https://www.linkedin.com/in/mateen-mehmood/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/https://www.facebook.com/786beast/" target="_blank">
