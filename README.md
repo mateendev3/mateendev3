@@ -32,11 +32,13 @@
 
 
 ### Glad to see you here!  
-***A passionate, enthusiastic programmer. Skilled in Flutter cross-platform apps, Android native apps, NodeJS, and Firebase as backend. A self-taught programmer and a quick learner who believes in constant improvement.***  
-  
+***A passionate, enthusiastic programmer. Skilled in Flutter cross-platform apps, Android native apps, NodeJS, and Firebase as backend. A self-taught programmer and a quick learner who believes in constant improvement.***    
+<br/> 
+## Github Stats  
 
-<br/>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mateendev3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
+<br/> 
 
 ## Languages and Tools  
 <div align="center">  
@@ -65,8 +67,3 @@
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mateendev3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
