@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Mateen Mehmood!  
-  
+
+<div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mateendev3&label=Views&color=blue&style=plastic&style=for-the-badge" alt="mateendev3" /> </p></div>
 
 <div align="center">
 <a href="https://github.com/mateendev3" target="_blank">
@@ -32,12 +33,14 @@
 
 
 
-### Glad to see you here!  
+## 💫 About Me :
 ***A passionate, enthusiastic programmer. Skilled in Flutter cross-platform apps, Android native apps, NodeJS, and Firebase as backend. A self-taught programmer and a quick learner who believes in constant improvement.***    
 <br/> 
-## Github Stats  
+## Profile Summary
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mateendev3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateendev3&theme=tokyonight"/>
+</p>
 
 <br/> 
 
@@ -66,5 +69,13 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>  
+
+</br>
+
+## Github Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mateendev3&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+</p>
 
 <br/>  
